@@ -1,0 +1,1 @@
+AbletonTracklistExporter.ApplicationAdapter = DS.FixtureAdapter;
